@@ -1,4 +1,4 @@
-<h1>Hola 👋, Soy Kevin Useche Full Stack Developer</h1>
+<h1>Hola 👋, Soy Kevin Useche Software Developer Engineer</h1>
 <p>Me encanta aprender cosas nuevas y enfrentar desafíos. En mi rol Full Stack Developer cuento experiencia en tecnologías como Angular, .Net, Java, AWS, SQL Server, entre otras. Quienes interactúan conmigo y/o aprenden de mi, consideran que soy un buen líder o profesor. Si tienes un proyecto en mente, no dudes en contactarme.</p>
 <h2>🚀 Lenguages y herramientas que uso</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
